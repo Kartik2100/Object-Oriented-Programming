@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.29">
+<file name="/home/undergrad/0/kpatel15/CIS2430_SUMMER/finalexam/src/main/java/gradecalc/AssignmentStudent.java">
+</file>
+<file name="/home/undergrad/0/kpatel15/CIS2430_SUMMER/finalexam/src/main/java/gradecalc/ChallengeStudent.java">
+</file>
+<file name="/home/undergrad/0/kpatel15/CIS2430_SUMMER/finalexam/src/main/java/gradecalc/Roster.java">
+<error line="49" column="5" severity="error" message="Method length is 15 lines (max allowed is 12)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+<error line="92" column="5" severity="error" message="Method length is 20 lines (max allowed is 12)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+<error line="119" column="5" severity="error" message="Method length is 19 lines (max allowed is 12)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+</file>
+<file name="/home/undergrad/0/kpatel15/CIS2430_SUMMER/finalexam/src/main/java/gradecalc/ProjectStudent.java">
+</file>
+<file name="/home/undergrad/0/kpatel15/CIS2430_SUMMER/finalexam/src/main/java/gradecalc/Student.java">
+<error line="155" column="5" severity="error" message="Method length is 20 lines (max allowed is 12)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+</file>
+<file name="/home/undergrad/0/kpatel15/CIS2430_SUMMER/finalexam/src/main/java/gradecalc/ResearchSubject.java">
+</file>
+</checkstyle>
